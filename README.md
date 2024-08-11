@@ -1,1 +1,2 @@
-This IS for reactJS
+This is rect js Repository
+Author - Amresh Jha
